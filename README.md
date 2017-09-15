@@ -1,5 +1,4 @@
 # [hihoCoder](http://www.hihocoder.com/)
-
 [1000 - A+B Lv.1](./src/numberAdd/1000%20-%20A+B.md)
 
 [1014 - Trie树 Lv.1](./src/trie/1014%20-%20Trie树.md)
