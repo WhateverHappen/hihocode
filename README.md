@@ -7,7 +7,7 @@
 
 [1051 - 补提交卡 Lv.1](./src/offset/1051%20-%20补提交卡.md)
 
-[1082 - 沼跃鱼 Lv.1](.src/marshtomp/1082%20-%20沼跃鱼.md)
+[1082 - 沼跃鱼 Lv.1](./src/marshtomp/1082%20-%20沼跃鱼.md)
 
 [1148 - 2月29日 Lv.1](./src/leap_year/1148%20-%20leap_year.md)
 
