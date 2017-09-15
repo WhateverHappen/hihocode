@@ -1,2 +1,2 @@
-#[hihoCode](http://www.hihocoder.com/) 
-[1000 - A+B Lv.1](./1000%20-%20A+B/1000%20-%20A+B.md)
+#[hihoCoder](http://www.hihocoder.com/) 
+[1000 - A+B Lv.1](./numberAdd/1000%20-%20A+B.md)
